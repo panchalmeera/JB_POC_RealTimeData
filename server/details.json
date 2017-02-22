@@ -1,0 +1,928 @@
+{  
+   "Flights":[  
+      {  
+         "id":0,
+         "flight":"A-360",
+         "sourceCity":"JFK",
+         "destinationCity":"BUF",
+         "account":2,
+         "schedDepDate":"20OCT16",
+         "flightStatus":"Delay",
+         "schedDepTime":"14:20",
+         "estDepTime":"15:00",
+         "totalDelay":"40",
+         "delayCode":"T35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":1,
+         "flight":"A-359",
+         "sourceCity":"BUF",
+         "destinationCity":"JFK",
+         "account":1,
+         "schedDepDate":"22OCT16",
+         "flightStatus":"On Time",
+         "schedDepTime":"15:20",
+         "estDepTime":"16:00",
+         "totalDelay":"40",
+         "delayCode":"J35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":2,
+         "flight":"A-358",
+         "sourceCity":"MCO",
+         "destinationCity":"BUF",
+         "account":3,
+         "schedDepDate":"23OCT16",
+         "flightStatus":"Delay",
+         "schedDepTime":"16:20",
+         "estDepTime":"16:20",
+         "totalDelay":"0",
+         "delayCode":"K35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":3,
+         "flight":"A-331",
+         "sourceCity":"JFK",
+         "destinationCity":"MCO",
+         "account":4,
+         "schedDepDate":"24OCT16",
+         "flightStatus":"On Time",
+         "schedDepTime":"19:20",
+         "estDepTime":"19:30",
+         "totalDelay":"10",
+         "delayCode":"F35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":4,
+         "flight":"A-362",
+         "sourceCity":"BUF",
+         "destinationCity":"MCO",
+         "account":2,
+         "schedDepDate":"20OCT16",
+         "flightStatus":"Delay",
+         "schedDepTime":"14:55",
+         "estDepTime":"15:00",
+         "totalDelay":"5",
+         "delayCode":"T35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":5,
+         "flight":"A-360",
+         "sourceCity":"BOS",
+         "destinationCity":"BUF",
+         "account":1,
+         "schedDepDate":"22 OCT 16",
+         "flightStatus":"OnTime",
+         "schedDepTime":"18:10",
+         "estDepTime":"19:00",
+         "totalDelay":"50",
+         "delayCode":"J35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":6,
+         "flight":"A-356",
+         "sourceCity":"JFK",
+         "destinationCity":"BOS",
+         "account":3,
+         "schedDepDate":"23OCT16",
+         "flightStatus":"Delay",
+         "schedDepTime":"16:20",
+         "estDepTime":"16:20",
+         "totalDelay":"0",
+         "delayCode":"K35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":7,
+         "flight":"A-332",
+         "sourceCity":"BOS",
+         "destinationCity":"BUF",
+         "account":4,
+         "schedDepDate":"24OCT16",
+         "flightStatus":"On Time",
+         "schedDepTime":"19:20",
+         "estDepTime":"19:22",
+         "totalDelay":"2",
+         "delayCode":"F35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":8,
+         "flight":"A-328",
+         "sourceCity":"MCO",
+         "destinationCity":"BOS",
+         "account":4,
+         "schedDepDate":"24OCT16",
+         "flightStatus":"On Time",
+         "schedDepTime":"19:20",
+         "estDepTime":"19:30",
+         "totalDelay":"10",
+         "delayCode":"F35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":9,
+         "flight":"A-333",
+         "sourceCity":"BUF",
+         "destinationCity":"BOS",
+         "account":4,
+         "schedDepDate":"24OCT16",
+         "flightStatus":"On Time",
+         "schedDepTime":"17:20",
+         "estDepTime":"19:00",
+         "totalDelay":"100",
+         "delayCode":"F35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      },
+      {  
+         "id":10,
+         "flight":"A-330",
+         "sourceCity":"MCO",
+         "destinationCity":"BOS",
+         "account":4,
+         "schedDepDate":"24OCT16",
+         "flightStatus":"On Time",
+         "schedDepTime":"15:15",
+         "estDepTime":"16:00",
+         "totalDelay":"45",
+         "delayCode":"F35",
+         "etDateTime":"15:15:00",
+         "luDateTime":"16:5:00",
+         "currentStatus":{  
+            "flight":"02 Nov 09:59 ",
+            "date":"02 Nov 12:18",
+            "diversion":"JFK"
+         },
+         "departure":{  
+            "scheduled":"02 Nov 09:59 ",
+            "current":"02 Nov 12:18",
+            "actualOut":"02 Nov 12:28",
+            "actualIn":"02 Nov 12:39"
+         },
+         "arrival":{  
+            "scheduled":" ",
+            "current":" ",
+            "actualOn":" ",
+            "actualIn":" "
+         },
+         "stopCityDetails":{  
+            "on":" ",
+            "in":" ",
+            "out":" ",
+            "off":" ",
+            "totalDelaysInStop":""
+         },
+         "aircraftDetails":{  
+            "aircraft":" ",
+            "originalTail":" ",
+            "newTail":" ",
+            "actualIn":" ",
+            "core":" ",
+            "mint":" ",
+            "mosaic":" ",
+            "total":" ",
+            "misconnectingCust":""
+         },
+         "eventDetails":[  
+            {  
+               "timeStamp":"02NOV 10:15",
+               "eventType":"Gate Retutn",
+               "duration":"30 Minutes",
+               "description":"MAINTENANCE"
+            },
+            {  
+               "timeStamp":"02NOV 10:35",
+               "eventType":"Delay",
+               "duration":"1 HR 30 Minutes",
+               "description":"MAINTENANCE"
+            }
+         ],
+         "delayCodeDetails":[  
+            {  
+               "delayCode":"T12",
+               "nOfEntities":"1",
+               "description":"AIRCAFT GATE RETURN DUE TO TECHNICAL ISSUEA",
+               "totalDelayTime":"30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"2",
+               "description":"A/C MECHANICAL PROBLEM, ADJUSTING, REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"1 Hr 30 Minutes"
+            },
+            {  
+               "delayCode":"T35",
+               "nOfEntities":"3",
+               "description":"REPAIRING OR INSPECTING AN A/C",
+               "totalDelayTime":"36 Minutes"
+            }
+         ]
+      }
+   ]
+}

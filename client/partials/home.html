@@ -1,0 +1,50 @@
+<div class='table-responsive'>	<table class="table table-striped">
+	<tr>
+	<th>Flights</th>
+<th>City Pair</th>
+
+<th>A/C</th>
+
+<th>Sched Dep Date</th>
+
+<th>Current Status</th>
+
+<th>Sched Dep time</th>
+
+<th>Est. Dep Time</th>
+
+<th>Total Delay (in minutes)</th>
+
+<th>Delay Code</th>
+
+<th>Event Trigger Date& Time</th>
+
+<th>Latest Update Date & Time</th>
+
+
+	</tr>
+	 <tr ng-repeat="x in details.Flights">
+    <td>{{x.flight}}</td>
+<td> {{ x.sourceCity}}-{{ x.destinationCity}} </td>
+<td>{{x.account}}</td>
+ <td>{{x.schedDepDate|date:'ddMMMYY'}}</td>  
+<td>{{x.flightStatus}}</td>
+
+<td>{{x.schedDepTime|date:'hh:mm'}}</td>
+
+<td>{{x.estDepTime}}</td>
+
+<td>{{x.delayCodeDetails.totalDelayTime}}</td>
+
+<td>{{x.delayCode}}</td>
+ <td>{{x.schedDepDate|date:'ddMMMYY' }} {{x.etDateTime|date:"h:mm"}}</td>
+<td>{{x.schedDepDate|date:'ddMMMYY' }} {{x.luDateTime|date:'hh:mm'}}</td>
+  </tr>
+	</table>
+
+</div>
+   
+  
+
+    <!-- Modules -->
+    

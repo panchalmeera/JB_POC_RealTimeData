@@ -1,0 +1,41 @@
+[
+    {
+      "flight":"0693",
+      "sourceCity":"DCA",
+      "destinationCity":"BOS",
+      "account":"E90",
+      "schedDepDate":"2017-01-20",
+      "flightStatus":"OffTime",
+      "schedDepTime":"2017-01-20 13:25:41.4390000 -05:00",
+      "estDepTime":"2017-01-20 13:28:47.2990000 -05:00",
+      "totalDelay":"4",
+      "delayCode":"A23",
+      "etDateTime":"2017-01-20 13:25:44.2520000 -05:00",
+      "luDateTime":"2017-01-20 13:29:39.0250000 -05:00"
+    },
+    {
+      "flight":"1755",
+      "sourceCity":"FLL",
+      "destinationCity":"SJU",
+      "schedDepDate":"2017-01-20",
+      "flightStatus":"OffTime",
+      "schedDepTime":"2017-01-20 13:19:54.7690000 -05:00",
+      "totalDelay":"0",
+      "delayCode":"S12C",
+      "etDateTime":"2017-01-20 13:20:12.7260000 -05:00",
+      "luDateTime":"2017-01-20 13:20:17.7150000 -05:00"
+    },
+    {
+      "flight":"0807",
+      "sourceCity":"BOS",
+      "destinationCity":"JFK",
+      "account":"E90",
+      "schedDepDate":"2017-01-19",
+      "flightStatus":"OutTime",
+      "schedDepTime":"2017-01-19 16:02:46.2690000 -05:00",
+      "totalDelay":"0",
+      "delayCode":"D01",
+      "etDateTime":"2017-01-19 16:02:46.2690000 -05:00",
+      "luDateTime":"2017-01-19 16:04:24.0060000 -05:00"
+    }
+  ]

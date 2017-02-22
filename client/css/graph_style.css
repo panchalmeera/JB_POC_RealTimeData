@@ -1,0 +1,73 @@
+/* Put your css in here */
+
+table {
+    margin-left: 10px;
+}
+#dataTable table {
+    border-spacing: 2px;
+    border-collapse: separate;
+    !important margin-left: 10px;
+}
+#dataTable table tbody tr {
+    padding: 10px;
+}
+#dataTable {
+	text-align: center;
+    border-spacing: 2px;
+    border-collapse: separate;
+    !important margin-left: 6px;
+}
+td,
+th {
+    padding: 1px 4px;
+	text-align: center;
+    border: 1px solid blue;
+}
+tr td {
+    padding: 5px;
+}
+tr th {
+    text-align: center;
+    padding: 7.5px;
+}
+#chart2 {
+    height: 400px;
+    width: 650px;
+}
+#lineChart {
+    height: 400px;
+    width: 660px;
+}
+.axis path {
+    fill: none;
+    stroke: #777;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font-family: Lato;
+    font-size: 13px;
+}
+.nv-slice:nth-child(1) {
+    fill: red;
+    stroke: red;
+}
+.nv-slice:nth-child(2) {
+    fill: yellow;
+    stroke: yellow;
+}
+.nv-slice:nth-child(3) {
+    fill: green;
+    stroke: green;
+}
+.nv-series:nth-child(1) .nv-legend-symbol {
+    fill: red !important;
+    stroke: red !important;
+}
+.nv-series:nth-child(2)  .nv-legend-symbol{
+    fill: yellow !important;
+    stroke: yellow !important;
+}
+.nv-series:nth-child(3)  .nv-legend-symbol{
+    fill: green !important;
+    stroke: green !important;
+}
